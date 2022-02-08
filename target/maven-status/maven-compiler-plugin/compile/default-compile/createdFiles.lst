@@ -1,0 +1,5 @@
+com\sheldon\dynamodb\controller\ClienteController.class
+com\sheldon\dynamodb\DynamoDbApplication.class
+com\sheldon\dynamodb\model\Cliente.class
+com\sheldon\dynamodb\service\ClienteService.class
+com\sheldon\dynamodb\service\CriarTabelaClienteService.class
